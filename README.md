@@ -24,6 +24,7 @@ processes.
 10.Display the average waiting time and average turnaround time for all processes.
 11.End
 ## PROGRAM:
+```
 PROGRAM:
 #include<stdio.h>
 int main()
@@ -65,7 +66,7 @@ printf("\n %d\t %d\t %d\t %d\t %d\t %d\t %d\t%5.2f",i,at[i],bt[i],st[i],ft[i],wt
 }
 printf("\n--------------------------------------------------------------");
 printf("\n Average waiting time is %5.2f\n average tat is%5.2f",awt,atat); }
-
+```
 
 OUTPUT:
 
