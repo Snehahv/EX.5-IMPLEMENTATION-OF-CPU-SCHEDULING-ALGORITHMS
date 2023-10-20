@@ -179,7 +179,7 @@ printf("\nAverage turn around time is %5.2f",att);
 ## RESULT: 
 Shortest Job First (SJF) preemptive scheduling is implemented successfully.
 
-### SHORTEST JOB SCHEDULING (SJF) NON PRE-EMPTIVE SCHEDULING
+# SHORTEST JOB SCHEDULING (SJF) NON PRE-EMPTIVE SCHEDULING
 ## AIM:
 To implement Shortest Job First (SJF) Non-Preemptive Scheduling
 
@@ -300,7 +300,7 @@ return 0;
 ## RESULT: 
 Shortest Job First (SJF) Non-preemptive scheduling is implemented successfully.
 
-### ROUND ROBIN (RR) SCHEDULING:
+# ROUND ROBIN (RR) SCHEDULING:
 ## AIM: 
 To implement Round Robin (RR) Scheduling
 
@@ -461,7 +461,7 @@ printf("\nAvg turn around time is %5.2f",atat);
 ## RESULT: 
 Round Robin (RR) Scheduling is implemented successfully.
 
-### PRIORITY PRE-EMPTIVE SCHEDULING:
+# PRIORITY PRE-EMPTIVE SCHEDULING:
 ## AIM: 
 To implement Priority Preemptive Scheduling
 
@@ -562,7 +562,7 @@ return 0;
 ## RESULT: 
 Priority Preemptive scheduling is implemented successfully.
 
-### PRIORITY NON PRE-EMPTIVE SCHEDULING:
+# PRIORITY NON PRE-EMPTIVE SCHEDULING:
 
 ## AIM: To implement Priority Non-Preemptive Scheduling
 
