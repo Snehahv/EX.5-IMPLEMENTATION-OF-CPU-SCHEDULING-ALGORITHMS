@@ -69,8 +69,9 @@ printf("\n Average waiting time is %5.2f\n average tat is%5.2f",awt,atat); }
 ```
 ## OUTPUT:
 ![273094892-6af9577b-fab5-4248-8afd-d0a424302e69](https://github.com/Snehahv/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119104131/b309b3c2-b8d2-44d9-b120-a8803f79b048)
-
-### OUTPUT:SHORTEST JOB SCHEDULING (SJF) PRE-EMPTIVE SCHEDULING:
+## RESULT:
+First-Come-First-Serve (FCFS) Scheduling implemented succesfully
+# OUTPUT:SHORTEST JOB SCHEDULING (SJF) PRE-EMPTIVE SCHEDULING:
 
 ## AIM: 
 To implement Shortest Job First (SJF) Preemptive Scheduling
